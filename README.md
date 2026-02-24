@@ -92,8 +92,8 @@ No deployment.
 Since X|Twitter published its brand and trademark guideline, **you MUST go
 through all the following to avoid unwanted legal implications**:
 
-* https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/downloads/twitter-external-brand-guidelines-01272021.pdf
 * https://about.x.com/en/who-we-are/brand-toolkit
+* https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/downloads/twitter-external-brand-guidelines-01272021.pdf
 
 While not specified by X|Twitter, please ensure the outputs are also web ready.
 Refer:
